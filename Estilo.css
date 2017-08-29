@@ -1,0 +1,28 @@
+body {
+	background: green;
+	text-align: center;
+}
+
+p {
+	font-family: Tahoma;
+	color: yellow 
+}
+
+a {
+	color: red;
+}
+
+p a {
+	color: blue;
+}
+
+.negrito {
+	font-weight : bold;
+	text-decoration: underline;
+}
+
+p.negrito
+
+#destaque {
+	text-decoration: none;
+}
